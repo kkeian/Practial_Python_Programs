@@ -28,7 +28,9 @@ PS C:\path\to\python.py_and.bat> <name of script> <options/parameters>
 
 ## Installation
 
-- Clone `program.py` with it's corresponding `program.bat` file, into your local machine github directory.
+1. Clone `<program>.py>` with it's corresponding `<program>.bat` file, into your local machine github directory.
+2. Ensure the directory you copied the files into is also in your Path environment variable.
 
-### Clone
-- Clone this repo to your local machine using `https://github.com/kkeian/practical_programs`
+### Run the python program (for Windows machines)
+1. Ctrl+R  or   open PowerShell/cmd.exe
+2. Type `<program> <options/parameters>` as instructed in Usage: section of .py file.
